@@ -1,0 +1,5 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+clickhouse-driver==0.2.5
+python-multipart==0.0.6
+pydantic==1.10.7
